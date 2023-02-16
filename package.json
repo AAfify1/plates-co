@@ -1,0 +1,11 @@
+{
+  "name": "plates-co",
+  "version": "1.0.0",
+  "description": "Plates Sales System",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
